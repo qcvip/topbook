@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+#k{width:1500px;height:auto;margin: auto;}
+#dh{width: 1500px;border-bottom: 1px solid #E8E0E0;height:70px;}
+#dhs{height: 50px;width:800px; background: #FFFFFF;margin-left: 150px;}
+#dhs a{display: block;text-decoration: none;color: #000000;padding: 40px 0px 0px 40px;margin-right: 40px;}
+#dhs li{float: left;list-style-type: none; padding-bottom: 4px;}
+#aa{border-bottom: 5px solid #000000;}
+#bb:hover{border-bottom: 5px solid #000000;}
+#cc:hover{border-bottom: 5px solid #000000;}
+#dd:hover{border-bottom: 5px solid #000000;}
+#main{ width:1400px;margin:80px 0px 50px 0px;float:left;}
+#l{float:left;width:800px; }
+#mains{ width:700px;border: 1px solid #E8E0E0;height: 380px;margin:20px 0px 20px 100px;padding: 10px 20px;}
+#a{font-size: 5px;}
+#b{float: right;}
+#c{font-size: 2px;}
+#d{ width:130px;height: 150px;float: left;margin: 20px 10px;background:#FCE4D6;padding:10px 10px;}
+#e{ width:130px;height: 150px;float: left;margin: 20px 10px;background:#DDEBF7;padding:10px 10px;}
+#zzz{line-height: 28px;font-size: 1px;color:#919191;}
+#r{ float:left;width:300px;margin:100px 0px 0px 100px;}
+#r a{text-decoration: none;color: #000000;}
+#tw{ width: 250px;height: 200px;margin: 0px 0px 50px 0px;}
+#db{float:left;width: 600px;height: 40px; margin:  10px 0px 0px 400px; }
+#db a{text-decoration: none;color: #707070;}

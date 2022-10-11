@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+#k{width:1500px;height:auto;margin: auto;}
+#dh{width: 1500px;border-bottom: 1px solid #E8E0E0;height:70px;}
+#dhs{height: 50px;width:800px; background: #FFFFFF;margin-left: 150px;float:none;}
+#dhs a{display: block;text-decoration: none;color: #000000;padding: 40px 0px 0px 40px;margin-right: 40px;}
+#dhs li{float: left;list-style-type: none; padding-bottom: 4px;}
+#aa:hover{border-bottom: 5px solid #000000;}
+#bb:hover{border-bottom: 5px solid #000000;}
+#cc:hover{border-bottom: 5px solid #000000;}
+#dd{border-bottom: 5px solid #000000;}
+#main{width: 970px;float:left;margin:50px 0px 50px 200px;}
+#ss{ width: 200px; height: 230px;border: 1px solid #E8E0E0; float: left; margin:20px;}
+#t{width:180px; height:130px;float:left;margin:15px 11px 50px 9px;}
+#t a{text-decoration: none;color: #474747;}
+#t p{font-size: 1px;color: #A2A2A2;}
+#t p1{font-size: 1px;color: #FB0000;}
+#db{float: none;width: 550px;margin: auto;}
+#db a{text-decoration: none;color: #707070;}
